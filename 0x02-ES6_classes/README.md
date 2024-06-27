@@ -1,1 +1,1 @@
-# 0x02-ES8_classes
+# 0x02-ES6_classes
